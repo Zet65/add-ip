@@ -1,5 +1,5 @@
 {
-  "allowedIps": ["172.18.0.10"],
+  "allowedIps": ["172.18.0.14"],
   "users": [
     {
       "username": "kayla",
